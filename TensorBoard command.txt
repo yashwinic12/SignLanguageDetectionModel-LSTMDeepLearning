@@ -1,0 +1,4 @@
+dir
+cd Logs
+cd train
+tensorboard --logdir=.
